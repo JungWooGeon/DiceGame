@@ -1,0 +1,12 @@
+﻿<resources>
+  <string name="app_name">Sense dobbelspel</string>
+  <string name="game_menu">Spelmenu</string>
+  <string name="select_number_of_dice">Kies het aantal dobbelstenen</string>
+  <string name="complete_select" formatted="false">%d dobbelsten(en) gekozen.</string>
+  <string name="plz_enter_space">Druk op spatie om door te gaan</string>
+  <string name="ready_enter">Gereed! Druk op enter, of schud de dobbelstenen</string>
+  <string name="dice_one">1 dobblsteen</string>
+  <string name="dice_two">2 dobbelstenen</string>
+  <string name="dice_three">3 dobbelstenen</string>
+  <string name="plz_select_number_of_dice">Please select the number of dice.</string>
+</resources>

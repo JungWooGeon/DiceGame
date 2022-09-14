@@ -1,0 +1,12 @@
+﻿<resources>
+  <string name="app_name">משחקי קוביה</string>
+  <string name="game_menu">תפריט משחקים</string>
+  <string name="select_number_of_dice">בחר מספר קוביות</string>
+  <string name="complete_select" formatted="false">מספר הקוביות שנבחרו הוא %d.</string>
+  <string name="plz_enter_space">לחץ אנטר או רווח כדי להמשיך</string>
+  <string name="ready_enter">מוכן! הקש אנטר. או זרוק קוביות.</string>
+  <string name="dice_one">קוביה אחת</string>
+  <string name="dice_two">2 קוביות</string>
+  <string name="dice_three">3 קוביות</string>
+  <string name="plz_select_number_of_dice">Please select the number of dice.</string>
+</resources>

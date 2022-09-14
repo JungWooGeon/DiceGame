@@ -1,0 +1,12 @@
+﻿<resources>
+  <string name="app_name">Sense игра в кости</string>
+  <string name="game_menu">Игровое меню</string>
+  <string name="select_number_of_dice">Выберите число кубиков</string>
+  <string name="complete_select" formatted="false">Выбрано %d кубик(ов).</string>
+  <string name="plz_enter_space">Нажмите пробел или Ввод для продолжения</string>
+  <string name="ready_enter">Готово! Нажмите Ввод или встряхните устройство.</string>
+  <string name="dice_one">1 кубик</string>
+  <string name="dice_two">2 кубика</string>
+  <string name="dice_three">3 кубика</string>
+  <string name="plz_select_number_of_dice">Please select the number of dice.</string>
+</resources>

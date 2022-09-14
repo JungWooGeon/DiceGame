@@ -1,0 +1,12 @@
+﻿<resources>
+  <string name="app_name">Jogo de Dados Sense</string>
+  <string name="game_menu">Menu do jogo</string>
+  <string name="select_number_of_dice">Selecionar número do dado</string>
+  <string name="complete_select" formatted="false">%d número do dado(s) selecionado.</string>
+  <string name="plz_enter_space">Pressiona Espaço ou Enter para continuar</string>
+  <string name="ready_enter">Pronto! Pressione Enter ou lança o dado.</string>
+  <string name="dice_one">1 dado</string>
+  <string name="dice_two">2 dados</string>
+  <string name="dice_three">3 dados</string>
+  <string name="plz_select_number_of_dice">Please select the number of dice.</string>
+</resources>

@@ -1,0 +1,33 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="activity"
+            type="com.selvashc.entertainment.dicegame.MainActivity" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/select_number_of_dice_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="50dp"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <com.jawon.han.widget.HanTextView
+            android:id="@+id/select_number_of_dice_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/game_menu" />
+
+        <com.jawon.han.widget.HanListView
+            android:id="@+id/select_number_of_dice_listview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:labelFor="@+id/select_number_of_dice_textview" />
+
+    </LinearLayout>
+
+</layout>

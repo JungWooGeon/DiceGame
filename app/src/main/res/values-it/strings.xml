@@ -1,0 +1,12 @@
+﻿<resources>
+  <string name="app_name">dadi</string>
+  <string name="game_menu">Giochi</string>
+  <string name="select_number_of_dice">Scegli il numero di dadi</string>
+  <string name="complete_select" formatted="false">%d numero di dadi selezionati.</string>
+  <string name="plz_enter_space">Premere spazio per continuare</string>
+  <string name="ready_enter">Pronto! Premi invio o mischia i dadi.</string>
+  <string name="dice_one">1 dado</string>
+  <string name="dice_two">2 dadi</string>
+  <string name="dice_three">3 dadi</string>
+  <string name="plz_select_number_of_dice">Please select the number of dice.</string>
+</resources>

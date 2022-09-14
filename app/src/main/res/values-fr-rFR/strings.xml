@@ -1,0 +1,12 @@
+﻿<resources>
+  <string name="app_name">Jeux de dés</string>
+  <string name="game_menu">Menu Jeux</string>
+  <string name="select_number_of_dice">Sélectionnez le nombre de dés</string>
+  <string name="complete_select" formatted="false">%d dés sélectionnés.</string>
+  <string name="plz_enter_space">Appuyez sur Espace pour continuer</string>
+  <string name="ready_enter">Prêt ! Appuyez sur Entrée ou secouer les dés.</string>
+  <string name="dice_one">1 dé</string>
+  <string name="dice_two">2 dés</string>
+  <string name="dice_three">3 dés</string>
+  <string name="plz_select_number_of_dice">Please select the number of dice.</string>
+</resources>
